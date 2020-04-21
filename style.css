@@ -1,5 +1,5 @@
 h1 {
-		color: blue;
+		color: yellow;
 
 }
 p1 {
@@ -11,4 +11,7 @@ li {
 	li {
 		color: teal;
 	}
+}
+body {
+	background-color: red;
 }
