@@ -1,0 +1,14 @@
+h1 {
+		color: blue;
+
+}
+p1 {
+	color: teal;
+}
+li {
+	color: blue;
+
+	li {
+		color: teal;
+	}
+}
